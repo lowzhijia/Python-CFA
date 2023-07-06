@@ -3,7 +3,7 @@
 import random
 
 def main():
-    """Start a guessing genre music between hip hop and rock."""
+    """Start a guessing genre music."""
     print("Guess the music!\nPlease choose one genre music.\n(hip hop, classical, disco, rock, jazz, and kpop)\n")
 
     music = ["hip hop", "classical", "disco", "rock", "jazz", "kpop"]
